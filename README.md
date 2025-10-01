@@ -1,2 +1,7 @@
-# -IoT-Based-Health-Monitoring-System
-This project focuses on the design and simulation of an IoT-based health monitoring system developed using the Wokwi simulator and integrated with the ThingSpeak cloud platform. The system is built to continuously track key vital signs, including body temperature, humidity levels, and heart rate, ensuring that health data is monitored in real time.
+# Project Title: IoT-Based-Health-Monitoring-System
+## Overview: This project focuses on the design and simulation of an IoT-based health monitoring system developed using the Wokwi simulator and integrated with the ThingSpeak cloud platform. The system is built to continuously track key vital signs, including body temperature, humidity levels, and heart rate, ensuring that health data is monitored in real-time.
+## Tools & Technologies: Wokwi Simulator, ThingSpeak, IFTTT, MQTT.
+## Objectives: Design and simulate an IoT-based health monitoring system; Enable real-time tracking of temperature, humidity, and heart rate; Provide automated alerts when readings exceed safety thresholds; Improve remote patient care and caregiver response time.
+## Key Findings: IoT sensors can reliably capture and transmit vital signs to the cloud; ThingSpeak provides effective real-time visualisation and data storage; Automated alerts significantly reduce caregiver response delays; Simulation with Wokwi ensures low-cost prototyping before deployment.
+## Deliverables: Source code for IoT sensor integration with Wokwi. ThingSpeak dashboard for real-time monitoring. Alerting mechanism for abnormal readings; Documentation explaining setup, configuration, and usage.
+## Lessons Learned: Cloud platforms simplify real-time monitoring but require a stable internet. Threshold calibration is crucial to minimise false alerts. Simulation tools like Wokwi accelerate testing without physical hardware. Clear system documentation improves usability and future scalability.
